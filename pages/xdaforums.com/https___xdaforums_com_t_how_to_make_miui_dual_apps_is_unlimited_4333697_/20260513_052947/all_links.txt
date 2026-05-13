@@ -1,0 +1,5 @@
+/.bunny-shield/assets/challenge-styles.css
+/.bunny-shield/assets/challenge.svg
+/.bunny-shield/assets/shield-challenge.js
+https://bunny.net/
+https://fonts.bunny.net/css?family=Inter:300,400,500,700
